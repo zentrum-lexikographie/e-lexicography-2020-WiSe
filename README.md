@@ -1,6 +1,8 @@
 # e-lexicography: Wintersemester 2020
 
-Hier finden sich die Kursmaterialien (Folien) zum Blockseminar. Hier der Überblick über die 4 Tage:
+Hier werden die Kursmaterialien (Folien) zum Blockseminar abgelegt.
+
+Das Kursprogramm umfasst: 
 
 Tag 1 (Potsdam): Einführung (Geschichte der Lexikographie, Überblick über die "e-Lexicography")
 
