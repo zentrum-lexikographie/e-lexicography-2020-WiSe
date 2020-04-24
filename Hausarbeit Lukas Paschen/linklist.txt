@@ -1,0 +1,4 @@
+# Liste mit Links, aus denen eine Vokabelliste aufgebaut wird 
+# siehe https://trafilatura.readthedocs.io/en/latest/tutorial1.html
+https://www.tagesschau.de/inland/corona-massnahmen-115.html
+https://boerse.ard.de/marktberichte/der-dax-macht-sich-locker100.html
